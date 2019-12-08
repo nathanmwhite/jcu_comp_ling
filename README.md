@@ -1,6 +1,9 @@
 Repository /jcu_comp_ling
 
-This repository is devoted to Jupyter Notebook files that provide helpful examples and training for colleagues in the Language and Culture Research Centre, James Cook University, and for whoever else finds these useful.
+Short description: Computational Linguistics and NLP scripts for JCU researchers
+
+Long description:
+This repository is devoted to Jupyter Notebook files that provide helpful examples and training for researchers in the Language and Culture Research Centre, James Cook University, and for whoever else ultimately finds these useful.
 
 There are currently three Jupyter Notebook files in the folder:
 1) NLP_Intro.ipynb: provides a basic introduction to basic NLP tasks, namely word tokenization, training word embeddings, POS tagging, lemmatization, and tree parsing.
